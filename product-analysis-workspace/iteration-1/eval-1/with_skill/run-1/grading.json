@@ -1,0 +1,48 @@
+{
+  "expectations": [
+    {
+      "text": "三阶段结构",
+      "passed": true,
+      "evidence": "输出明确包含「问题重定义」「本质拆解」「剪枝分析」三个章节，对应苏格拉底提问、第一性原理、奥卡姆剃刀三个阶段"
+    },
+    {
+      "text": "问题重定义",
+      "passed": true,
+      "evidence": "明确区分原始问题（自建知识库）和实际问题（知识沉淀和检索的行为习惯未建立），并标识关键矛盾"
+    },
+    {
+      "text": "可操作结论",
+      "passed": true,
+      "evidence": "给出具体建议：先做5Why追问Notion/Confluence失败根因，最小方案是统一搜索入口+低摩擦记录bot"
+    },
+    {
+      "text": "简洁有力",
+      "passed": true,
+      "evidence": "62行，每个阶段有清晰的洞察句，无冗余展开，结论表格式汇总简洁有效"
+    },
+    {
+      "text": "剪枝清单",
+      "passed": true,
+      "evidence": "明确列出可复用（SSO/ES/现有文档工具）、可合并（条目+标签+搜索统一）、可推迟（AI摘要/审批/知识图谱）、可删除（自研编辑器/权限/移动端）"
+    }
+  ],
+  "summary": {
+    "passed": 5,
+    "failed": 0,
+    "total": 5,
+    "pass_rate": 1.0
+  },
+  "execution_metrics": {
+    "total_tokens": 18622,
+    "output_chars": 4200
+  },
+  "timing": {
+    "duration_ms": 96896,
+    "total_duration_seconds": 96.9
+  },
+  "claims": [],
+  "eval_feedback": {
+    "suggestions": [],
+    "overall": "No suggestions, evals look solid"
+  }
+}
