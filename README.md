@@ -21,6 +21,7 @@
 | [andrej-karpathy-skills](./andrej-karpathy-skills/) | [karpathy](https://github.com/andrej-karpathy/skills) | Andrej Karpathy 的个人 Skill 集合 | 代码生成、项目工作流 |
 | [anthropics-skills](./anthropics-skills/) | [Anthropic](https://github.com/anthropics/skills) | Anthropic 官方 Skill 示例和规范 | Skill 开发参考、官方最佳实践 |
 | [agency-agents](./agency-agents/) | [Agency](https://github.com/agency-agents) | 多 Agent 协作编排框架 | 复杂任务的多 Agent 协同 |
+| [gsd-get-shit-done](./gsd-get-shit-done/) | [gsd-build](https://github.com/gsd-build/get-shit-done) | 轻量级 spec 驱动开发系统：6 步流程（需求→讨论→计划→执行→验证→发版），支持并行子 agent | 大型项目规范化开发 |
 
 ### 🔍 代码质量
 
