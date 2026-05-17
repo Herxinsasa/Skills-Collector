@@ -55,6 +55,12 @@
 | [superpowers](./superpowers/) | 社区 | Superpowers Skill 合集，增强 Claude Code 能力边界 |
 | [vercel-labs-skills](./vercel-labs-skills/) | [Vercel](https://github.com/vercel-labs/skills) | Vercel Labs 官方 Skill 集 |
 
+### 📝 内容处理
+
+| Skill | 来源 | 说明 | 适用场景 |
+|-------|------|------|---------|
+| [qiaomu-anything-to-notebooklm](./qiaomu-anything-to-notebooklm/) | [joeseesun](https://github.com/joeseesun/qiaomu-anything-to-notebooklm) | 多源内容转 NotebookLM：微信公众号、网页、YouTube、播客、PDF 等，自动生成播客/PPT/思维导图 | 内容整理、知识转化 |
+
 ---
 
 ## 使用方式
